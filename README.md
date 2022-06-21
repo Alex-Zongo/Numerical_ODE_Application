@@ -6,7 +6,7 @@ Case study: The FitzHugh-Nagumo model of neuronal excitability
 
 The file "ode_project" contains a set of functions implementing different algorithms (explicit methods with fixed step size) and utility functions used through the analysis.
 
-The experiments can be found in "project.mlx" which a matlab live script or its converted version with extension ".m"
+The experiments can be found in "project.mlx" which a matlab live script or its converted version with extension ".m" or the pdf file "project-ode_experiments"
 
 References:
 
