@@ -104,7 +104,7 @@ classdef ode_project
             
         end
 
-        function [t, X]=RK4(f, tspan, X0, n)
+        function [t, Y]=RK4(f, tspan, X0, n)
             % IMplementation of Runge-Kutta 4th Order Method
             % INPUTS:
             %   f - function handle or RHS
