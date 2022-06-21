@@ -9,7 +9,8 @@ The file "ode_project" contains a set of functions implementing different algori
 The experiments can be found in "project.mlx" which a matlab live script or its converted version with extension ".m"
 
 References:
-[1] Ravi Agarwal, Simona Hodis, and Donal O’Regan. Runge–Kutta Method, pages 163–182. 09 2019. 5, 6
+
+    [1] Ravi Agarwal, Simona Hodis, and Donal O’Regan. Runge–Kutta Method, pages 163–182. 09 2019. 5, 6
 
     [2] Richard FitzHugh. Mathematical models of threshold phenomena in the nerve membrane. The bulletin of mathematical biophysics,
     17(4):257–278, 1955. 1
